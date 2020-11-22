@@ -1,3 +1,4 @@
 # git-demo
-git hub demo project 
+git conflict hub demo project 
 change 1
+change3
